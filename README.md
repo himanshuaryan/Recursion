@@ -1,7 +1,7 @@
 # Recursion
-Formula of some useful in mathematics.<br>
+<p>Some usefull formulas in mathematics.</p><br>
 <li>
-  <ol>Factorial Number</ol>
-  <ol>Fibonacci Sequence</ol>
+  <ul>Factorial Number</ul>
+  <ul>Fibonacci Sequence</ul>
 </li><br>
 <p>Author: <b>Himanshu Aryan</b></p>
